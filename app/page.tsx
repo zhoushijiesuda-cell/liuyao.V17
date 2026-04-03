@@ -1,6 +1,6 @@
 "use client";
 import {useState} from "react";
-import {run} from "@/lib/masterV17";
+import {run} from "../lib/masterV17";
 
 export default function Page(){
 
